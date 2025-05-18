@@ -1,0 +1,1465 @@
+[
+    {
+        "id": 1,
+        "time": "2022-11-15 00:00:00",
+        "condition": {
+            "id": 3,
+            "name": "Cloudy"
+        },
+        "location": {
+            "id": 1,
+            "city": "Banjar Agung",
+            "country": "Indonesia"
+        },
+        "temperature": {
+            "amount": 27,
+            "feels_like": 29,
+            "high": 27,
+            "low": 25,
+            "units": "°"
+        },
+        "precipitation": {
+            "amount": 72,
+            "units": "%"
+        },
+        "wind": {
+            "amount": 7.7,
+            "units": "km/h"
+        },
+        "humidity": {
+            "amount": 1010,
+            "units": "mbar"
+        },
+        "hourly": [
+            {
+                "id": 1,
+                "time": "2022-11-15 11:00:00",
+                "condition": {
+                    "id": 3,
+                    "name": "Cloudy"
+                },
+                "location": {
+                    "id": 1,
+                    "city": "Banjar Agung",
+                    "country": "Indonesia"
+                },
+                "temperature": {
+                    "amount": 27,
+                    "feels_like": 29,
+                    "high": 27,
+                    "low": 25,
+                    "units": "°"
+                },
+                "precipitation": {
+                    "amount": 72,
+                    "units": "%"
+                },
+                "wind": {
+                    "amount": 7.7,
+                    "units": "km/h"
+                },
+                "humidity": {
+                    "amount": 1010,
+                    "units": "mbar"
+                },
+                "hourly": [
+        
+                ]
+            },
+            {
+                "id": 1,
+                "time": "2022-11-15 12:00:00",
+                "condition": {
+                    "id": 4,
+                    "name": "Rainy"
+                },
+                "location": {
+                    "id": 1,
+                    "city": "Banjar Agung",
+                    "country": "Indonesia"
+                },
+                "temperature": {
+                    "amount": 25,
+                    "feels_like": 29,
+                    "high": 27,
+                    "low": 25,
+                    "units": "°"
+                },
+                "precipitation": {
+                    "amount": 72,
+                    "units": "%"
+                },
+                "wind": {
+                    "amount": 7.7,
+                    "units": "km/h"
+                },
+                "humidity": {
+                    "amount": 1010,
+                    "units": "mbar"
+                },
+                "hourly": [
+        
+                ]
+            },
+            {
+                "id": 1,
+                "time": "2022-11-15 13:00:00",
+                "condition": {
+                    "id": 4,
+                    "name": "Rainy"
+                },
+                "location": {
+                    "id": 1,
+                    "city": "Banjar Agung",
+                    "country": "Indonesia"
+                },
+                "temperature": {
+                    "amount": 25,
+                    "feels_like": 29,
+                    "high": 27,
+                    "low": 25,
+                    "units": "°"
+                },
+                "precipitation": {
+                    "amount": 72,
+                    "units": "%"
+                },
+                "wind": {
+                    "amount": 7.7,
+                    "units": "km/h"
+                },
+                "humidity": {
+                    "amount": 1010,
+                    "units": "mbar"
+                },
+                "hourly": [
+        
+                ]
+            },
+            {
+                "id": 1,
+                "time": "2022-11-15 14:00:00",
+                "condition": {
+                    "id": 1,
+                    "name": "Sunny"
+                },
+                "location": {
+                    "id": 1,
+                    "city": "Banjar Agung",
+                    "country": "Indonesia"
+                },
+                "temperature": {
+                    "amount": 26,
+                    "feels_like": 29,
+                    "high": 27,
+                    "low": 25,
+                    "units": "°"
+                },
+                "precipitation": {
+                    "amount": 72,
+                    "units": "%"
+                },
+                "wind": {
+                    "amount": 7.7,
+                    "units": "km/h"
+                },
+                "humidity": {
+                    "amount": 1010,
+                    "units": "mbar"
+                },
+                "hourly": [
+        
+                ]
+            },
+            {
+                "id": 1,
+                "time": "2022-11-15 15:00:00",
+                "condition": {
+                    "id": 3,
+                    "name": "Cloudy"
+                },
+                "location": {
+                    "id": 1,
+                    "city": "Banjar Agung",
+                    "country": "Indonesia"
+                },
+                "temperature": {
+                    "amount": 27,
+                    "feels_like": 29,
+                    "high": 27,
+                    "low": 25,
+                    "units": "°"
+                },
+                "precipitation": {
+                    "amount": 72,
+                    "units": "%"
+                },
+                "wind": {
+                    "amount": 7.7,
+                    "units": "km/h"
+                },
+                "humidity": {
+                    "amount": 1010,
+                    "units": "mbar"
+                },
+                "hourly": [
+        
+                ]
+            },
+            {
+                "id": 1,
+                "time": "2022-11-15 16:00:00",
+                "condition": {
+                    "id": 4,
+                    "name": "Rainy"
+                },
+                "location": {
+                    "id": 1,
+                    "city": "Banjar Agung",
+                    "country": "Indonesia"
+                },
+                "temperature": {
+                    "amount": 25,
+                    "feels_like": 29,
+                    "high": 27,
+                    "low": 25,
+                    "units": "°"
+                },
+                "precipitation": {
+                    "amount": 72,
+                    "units": "%"
+                },
+                "wind": {
+                    "amount": 7.7,
+                    "units": "km/h"
+                },
+                "humidity": {
+                    "amount": 1010,
+                    "units": "mbar"
+                },
+                "hourly": [
+        
+                ]
+            },
+            {
+                "id": 1,
+                "time": "2022-11-15 17:00:00",
+                "condition": {
+                    "id": 4,
+                    "name": "Rainy"
+                },
+                "location": {
+                    "id": 1,
+                    "city": "Banjar Agung",
+                    "country": "Indonesia"
+                },
+                "temperature": {
+                    "amount": 25,
+                    "feels_like": 29,
+                    "high": 27,
+                    "low": 25,
+                    "units": "°"
+                },
+                "precipitation": {
+                    "amount": 72,
+                    "units": "%"
+                },
+                "wind": {
+                    "amount": 7.7,
+                    "units": "km/h"
+                },
+                "humidity": {
+                    "amount": 1010,
+                    "units": "mbar"
+                },
+                "hourly": [
+        
+                ]
+            },
+            {
+                "id": 1,
+                "time": "2022-11-15 18:00:00",
+                "condition": {
+                    "id": 5,
+                    "name": "Stormy"
+                },
+                "location": {
+                    "id": 1,
+                    "city": "Banjar Agung",
+                    "country": "Indonesia"
+                },
+                "temperature": {
+                    "amount": 26,
+                    "feels_like": 29,
+                    "high": 27,
+                    "low": 25,
+                    "units": "°"
+                },
+                "precipitation": {
+                    "amount": 72,
+                    "units": "%"
+                },
+                "wind": {
+                    "amount": 7.7,
+                    "units": "km/h"
+                },
+                "humidity": {
+                    "amount": 1010,
+                    "units": "mbar"
+                },
+                "hourly": [
+        
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "time": "2022-11-16 00:00:00",
+        "condition": {
+            "id": 1,
+            "name": "Sunny"
+        },
+        "location": {
+            "id": 1,
+            "city": "Banjar Agung",
+            "country": "Indonesia"
+        },
+        "temperature": {
+            "amount": 29,
+            "feels_like": 30,
+            "high": 31,
+            "low": 29,
+            "units": "°"
+        },
+        "precipitation": {
+            "amount": 72,
+            "units": "%"
+        },
+        "wind": {
+            "amount": 7.7,
+            "units": "km/h"
+        },
+        "humidity": {
+            "amount": 1010,
+            "units": "mbar"
+        },
+        "hourly": [
+            {
+                "id": 1,
+                "time": "2022-11-15 00:00:00",
+                "condition": {
+                    "id": 1,
+                    "name": "Cloudy"
+                },
+                "location": {
+                    "id": 1,
+                    "city": "Banjar Agung",
+                    "country": "Indonesia"
+                },
+                "temperature": {
+                    "amount": 27,
+                    "feels_like": 29,
+                    "high": 27,
+                    "low": 25,
+                    "units": "°"
+                },
+                "precipitation": {
+                    "amount": 72,
+                    "units": "%"
+                },
+                "wind": {
+                    "amount": 7.7,
+                    "units": "km/h"
+                },
+                "humidity": {
+                    "amount": 1010,
+                    "units": "mbar"
+                },
+                "hourly": [
+        
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "time": "2022-11-17 00:00:00",
+        "condition": {
+            "id": 2,
+            "name": "Partly Cloudy"
+        },
+        "location": {
+            "id": 1,
+            "city": "Banjar Agung",
+            "country": "Indonesia"
+        },
+        "temperature": {
+            "amount": 28,
+            "feels_like": 29,
+            "high": 30,
+            "low": 28,
+            "units": "°"
+        },
+        "precipitation": {
+            "amount": 72,
+            "units": "%"
+        },
+        "wind": {
+            "amount": 7.7,
+            "units": "km/h"
+        },
+        "humidity": {
+            "amount": 1010,
+            "units": "mbar"
+        },
+        "hourly": [
+            {
+                "id": 1,
+                "time": "2022-11-15 00:00:00",
+                "condition": {
+                    "id": 1,
+                    "name": "Cloudy"
+                },
+                "location": {
+                    "id": 1,
+                    "city": "Banjar Agung",
+                    "country": "Indonesia"
+                },
+                "temperature": {
+                    "amount": 27,
+                    "feels_like": 29,
+                    "high": 27,
+                    "low": 25,
+                    "units": "°"
+                },
+                "precipitation": {
+                    "amount": 72,
+                    "units": "%"
+                },
+                "wind": {
+                    "amount": 7.7,
+                    "units": "km/h"
+                },
+                "humidity": {
+                    "amount": 1010,
+                    "units": "mbar"
+                },
+                "hourly": [
+        
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "time": "2022-11-18 00:00:00",
+        "condition": {
+            "id": 1,
+            "name": "Sunny"
+        },
+        "location": {
+            "id": 1,
+            "city": "Banjar Agung",
+            "country": "Indonesia"
+        },
+        "temperature": {
+            "amount": 27,
+            "feels_like": 29,
+            "high": 27,
+            "low": 25,
+            "units": "°"
+        },
+        "precipitation": {
+            "amount": 72,
+            "units": "%"
+        },
+        "wind": {
+            "amount": 7.7,
+            "units": "km/h"
+        },
+        "humidity": {
+            "amount": 1010,
+            "units": "mbar"
+        },
+        "hourly": [
+            {
+                "id": 1,
+                "time": "2022-11-15 00:00:00",
+                "condition": {
+                    "id": 1,
+                    "name": "Cloudy"
+                },
+                "location": {
+                    "id": 1,
+                    "city": "Banjar Agung",
+                    "country": "Indonesia"
+                },
+                "temperature": {
+                    "amount": 27,
+                    "feels_like": 29,
+                    "high": 27,
+                    "low": 25,
+                    "units": "°"
+                },
+                "precipitation": {
+                    "amount": 72,
+                    "units": "%"
+                },
+                "wind": {
+                    "amount": 7.7,
+                    "units": "km/h"
+                },
+                "humidity": {
+                    "amount": 1010,
+                    "units": "mbar"
+                },
+                "hourly": [
+        
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "time": "2022-11-19 00:00:00",
+        "condition": {
+            "id": 3,
+            "name": "Cloudy"
+        },
+        "location": {
+            "id": 1,
+            "city": "Banjar Agung",
+            "country": "Indonesia"
+        },
+        "temperature": {
+            "amount": 27,
+            "feels_like": 29,
+            "high": 27,
+            "low": 26,
+            "units": "°"
+        },
+        "precipitation": {
+            "amount": 72,
+            "units": "%"
+        },
+        "wind": {
+            "amount": 7.7,
+            "units": "km/h"
+        },
+        "humidity": {
+            "amount": 1010,
+            "units": "mbar"
+        },
+        "hourly": [
+            {
+                "id": 1,
+                "time": "2022-11-15 11:00:00",
+                "condition": {
+                    "id": 3,
+                    "name": "Cloudy"
+                },
+                "location": {
+                    "id": 1,
+                    "city": "Banjar Agung",
+                    "country": "Indonesia"
+                },
+                "temperature": {
+                    "amount": 27,
+                    "feels_like": 29,
+                    "high": 27,
+                    "low": 25,
+                    "units": "°"
+                },
+                "precipitation": {
+                    "amount": 72,
+                    "units": "%"
+                },
+                "wind": {
+                    "amount": 7.7,
+                    "units": "km/h"
+                },
+                "humidity": {
+                    "amount": 1010,
+                    "units": "mbar"
+                },
+                "hourly": [
+        
+                ]
+            },
+            {
+                "id": 1,
+                "time": "2022-11-15 12:00:00",
+                "condition": {
+                    "id": 4,
+                    "name": "Rainy"
+                },
+                "location": {
+                    "id": 1,
+                    "city": "Banjar Agung",
+                    "country": "Indonesia"
+                },
+                "temperature": {
+                    "amount": 25,
+                    "feels_like": 29,
+                    "high": 27,
+                    "low": 25,
+                    "units": "°"
+                },
+                "precipitation": {
+                    "amount": 72,
+                    "units": "%"
+                },
+                "wind": {
+                    "amount": 7.7,
+                    "units": "km/h"
+                },
+                "humidity": {
+                    "amount": 1010,
+                    "units": "mbar"
+                },
+                "hourly": [
+        
+                ]
+            },
+            {
+                "id": 1,
+                "time": "2022-11-15 13:00:00",
+                "condition": {
+                    "id": 4,
+                    "name": "Rainy"
+                },
+                "location": {
+                    "id": 1,
+                    "city": "Banjar Agung",
+                    "country": "Indonesia"
+                },
+                "temperature": {
+                    "amount": 25,
+                    "feels_like": 29,
+                    "high": 27,
+                    "low": 25,
+                    "units": "°"
+                },
+                "precipitation": {
+                    "amount": 72,
+                    "units": "%"
+                },
+                "wind": {
+                    "amount": 7.7,
+                    "units": "km/h"
+                },
+                "humidity": {
+                    "amount": 1010,
+                    "units": "mbar"
+                },
+                "hourly": [
+        
+                ]
+            },
+            {
+                "id": 1,
+                "time": "2022-11-15 14:00:00",
+                "condition": {
+                    "id": 5,
+                    "name": "Stormy"
+                },
+                "location": {
+                    "id": 1,
+                    "city": "Banjar Agung",
+                    "country": "Indonesia"
+                },
+                "temperature": {
+                    "amount": 26,
+                    "feels_like": 29,
+                    "high": 27,
+                    "low": 25,
+                    "units": "°"
+                },
+                "precipitation": {
+                    "amount": 72,
+                    "units": "%"
+                },
+                "wind": {
+                    "amount": 7.7,
+                    "units": "km/h"
+                },
+                "humidity": {
+                    "amount": 1010,
+                    "units": "mbar"
+                },
+                "hourly": [
+        
+                ]
+            },
+            {
+                "id": 1,
+                "time": "2022-11-15 15:00:00",
+                "condition": {
+                    "id": 3,
+                    "name": "Cloudy"
+                },
+                "location": {
+                    "id": 1,
+                    "city": "Banjar Agung",
+                    "country": "Indonesia"
+                },
+                "temperature": {
+                    "amount": 27,
+                    "feels_like": 29,
+                    "high": 27,
+                    "low": 25,
+                    "units": "°"
+                },
+                "precipitation": {
+                    "amount": 72,
+                    "units": "%"
+                },
+                "wind": {
+                    "amount": 7.7,
+                    "units": "km/h"
+                },
+                "humidity": {
+                    "amount": 1010,
+                    "units": "mbar"
+                },
+                "hourly": [
+        
+                ]
+            },
+            {
+                "id": 1,
+                "time": "2022-11-15 16:00:00",
+                "condition": {
+                    "id": 4,
+                    "name": "Rainy"
+                },
+                "location": {
+                    "id": 1,
+                    "city": "Banjar Agung",
+                    "country": "Indonesia"
+                },
+                "temperature": {
+                    "amount": 25,
+                    "feels_like": 29,
+                    "high": 27,
+                    "low": 25,
+                    "units": "°"
+                },
+                "precipitation": {
+                    "amount": 72,
+                    "units": "%"
+                },
+                "wind": {
+                    "amount": 7.7,
+                    "units": "km/h"
+                },
+                "humidity": {
+                    "amount": 1010,
+                    "units": "mbar"
+                },
+                "hourly": [
+        
+                ]
+            },
+            {
+                "id": 1,
+                "time": "2022-11-15 17:00:00",
+                "condition": {
+                    "id": 4,
+                    "name": "Rainy"
+                },
+                "location": {
+                    "id": 1,
+                    "city": "Banjar Agung",
+                    "country": "Indonesia"
+                },
+                "temperature": {
+                    "amount": 25,
+                    "feels_like": 29,
+                    "high": 27,
+                    "low": 25,
+                    "units": "°"
+                },
+                "precipitation": {
+                    "amount": 72,
+                    "units": "%"
+                },
+                "wind": {
+                    "amount": 7.7,
+                    "units": "km/h"
+                },
+                "humidity": {
+                    "amount": 1010,
+                    "units": "mbar"
+                },
+                "hourly": [
+        
+                ]
+            },
+            {
+                "id": 1,
+                "time": "2022-11-15 18:00:00",
+                "condition": {
+                    "id": 5,
+                    "name": "Stormy"
+                },
+                "location": {
+                    "id": 1,
+                    "city": "Banjar Agung",
+                    "country": "Indonesia"
+                },
+                "temperature": {
+                    "amount": 26,
+                    "feels_like": 29,
+                    "high": 27,
+                    "low": 25,
+                    "units": "°"
+                },
+                "precipitation": {
+                    "amount": 72,
+                    "units": "%"
+                },
+                "wind": {
+                    "amount": 7.7,
+                    "units": "km/h"
+                },
+                "humidity": {
+                    "amount": 1010,
+                    "units": "mbar"
+                },
+                "hourly": [
+        
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "time": "2022-11-20 00:00:00",
+        "condition": {
+            "id": 5,
+            "name": "Stormy"
+        },
+        "location": {
+            "id": 1,
+            "city": "Banjar Agung",
+            "country": "Indonesia"
+        },
+        "temperature": {
+            "amount": 27,
+            "feels_like": 24,
+            "high": 25,
+            "low": 23,
+            "units": "°"
+        },
+        "precipitation": {
+            "amount": 72,
+            "units": "%"
+        },
+        "wind": {
+            "amount": 7.7,
+            "units": "km/h"
+        },
+        "humidity": {
+            "amount": 1010,
+            "units": "mbar"
+        },
+        "hourly": [
+            {
+                "id": 1,
+                "time": "2022-11-15 11:00:00",
+                "condition": {
+                    "id": 3,
+                    "name": "Cloudy"
+                },
+                "location": {
+                    "id": 1,
+                    "city": "Banjar Agung",
+                    "country": "Indonesia"
+                },
+                "temperature": {
+                    "amount": 27,
+                    "feels_like": 29,
+                    "high": 27,
+                    "low": 25,
+                    "units": "°"
+                },
+                "precipitation": {
+                    "amount": 72,
+                    "units": "%"
+                },
+                "wind": {
+                    "amount": 7.7,
+                    "units": "km/h"
+                },
+                "humidity": {
+                    "amount": 1010,
+                    "units": "mbar"
+                },
+                "hourly": [
+        
+                ]
+            },
+            {
+                "id": 1,
+                "time": "2022-11-15 12:00:00",
+                "condition": {
+                    "id": 4,
+                    "name": "Rainy"
+                },
+                "location": {
+                    "id": 1,
+                    "city": "Banjar Agung",
+                    "country": "Indonesia"
+                },
+                "temperature": {
+                    "amount": 25,
+                    "feels_like": 29,
+                    "high": 27,
+                    "low": 25,
+                    "units": "°"
+                },
+                "precipitation": {
+                    "amount": 72,
+                    "units": "%"
+                },
+                "wind": {
+                    "amount": 7.7,
+                    "units": "km/h"
+                },
+                "humidity": {
+                    "amount": 1010,
+                    "units": "mbar"
+                },
+                "hourly": [
+        
+                ]
+            },
+            {
+                "id": 1,
+                "time": "2022-11-15 13:00:00",
+                "condition": {
+                    "id": 4,
+                    "name": "Rainy"
+                },
+                "location": {
+                    "id": 1,
+                    "city": "Banjar Agung",
+                    "country": "Indonesia"
+                },
+                "temperature": {
+                    "amount": 25,
+                    "feels_like": 29,
+                    "high": 27,
+                    "low": 25,
+                    "units": "°"
+                },
+                "precipitation": {
+                    "amount": 72,
+                    "units": "%"
+                },
+                "wind": {
+                    "amount": 7.7,
+                    "units": "km/h"
+                },
+                "humidity": {
+                    "amount": 1010,
+                    "units": "mbar"
+                },
+                "hourly": [
+        
+                ]
+            },
+            {
+                "id": 1,
+                "time": "2022-11-15 14:00:00",
+                "condition": {
+                    "id": 5,
+                    "name": "Stormy"
+                },
+                "location": {
+                    "id": 1,
+                    "city": "Banjar Agung",
+                    "country": "Indonesia"
+                },
+                "temperature": {
+                    "amount": 26,
+                    "feels_like": 29,
+                    "high": 27,
+                    "low": 25,
+                    "units": "°"
+                },
+                "precipitation": {
+                    "amount": 72,
+                    "units": "%"
+                },
+                "wind": {
+                    "amount": 7.7,
+                    "units": "km/h"
+                },
+                "humidity": {
+                    "amount": 1010,
+                    "units": "mbar"
+                },
+                "hourly": [
+        
+                ]
+            },
+            {
+                "id": 1,
+                "time": "2022-11-15 15:00:00",
+                "condition": {
+                    "id": 3,
+                    "name": "Cloudy"
+                },
+                "location": {
+                    "id": 1,
+                    "city": "Banjar Agung",
+                    "country": "Indonesia"
+                },
+                "temperature": {
+                    "amount": 27,
+                    "feels_like": 29,
+                    "high": 27,
+                    "low": 25,
+                    "units": "°"
+                },
+                "precipitation": {
+                    "amount": 72,
+                    "units": "%"
+                },
+                "wind": {
+                    "amount": 7.7,
+                    "units": "km/h"
+                },
+                "humidity": {
+                    "amount": 1010,
+                    "units": "mbar"
+                },
+                "hourly": [
+        
+                ]
+            },
+            {
+                "id": 1,
+                "time": "2022-11-15 16:00:00",
+                "condition": {
+                    "id": 4,
+                    "name": "Rainy"
+                },
+                "location": {
+                    "id": 1,
+                    "city": "Banjar Agung",
+                    "country": "Indonesia"
+                },
+                "temperature": {
+                    "amount": 25,
+                    "feels_like": 29,
+                    "high": 27,
+                    "low": 25,
+                    "units": "°"
+                },
+                "precipitation": {
+                    "amount": 72,
+                    "units": "%"
+                },
+                "wind": {
+                    "amount": 7.7,
+                    "units": "km/h"
+                },
+                "humidity": {
+                    "amount": 1010,
+                    "units": "mbar"
+                },
+                "hourly": [
+        
+                ]
+            },
+            {
+                "id": 1,
+                "time": "2022-11-15 17:00:00",
+                "condition": {
+                    "id": 4,
+                    "name": "Rainy"
+                },
+                "location": {
+                    "id": 1,
+                    "city": "Banjar Agung",
+                    "country": "Indonesia"
+                },
+                "temperature": {
+                    "amount": 25,
+                    "feels_like": 29,
+                    "high": 27,
+                    "low": 25,
+                    "units": "°"
+                },
+                "precipitation": {
+                    "amount": 72,
+                    "units": "%"
+                },
+                "wind": {
+                    "amount": 7.7,
+                    "units": "km/h"
+                },
+                "humidity": {
+                    "amount": 1010,
+                    "units": "mbar"
+                },
+                "hourly": [
+        
+                ]
+            },
+            {
+                "id": 1,
+                "time": "2022-11-15 18:00:00",
+                "condition": {
+                    "id": 5,
+                    "name": "Stormy"
+                },
+                "location": {
+                    "id": 1,
+                    "city": "Banjar Agung",
+                    "country": "Indonesia"
+                },
+                "temperature": {
+                    "amount": 26,
+                    "feels_like": 29,
+                    "high": 27,
+                    "low": 25,
+                    "units": "°"
+                },
+                "precipitation": {
+                    "amount": 72,
+                    "units": "%"
+                },
+                "wind": {
+                    "amount": 7.7,
+                    "units": "km/h"
+                },
+                "humidity": {
+                    "amount": 1010,
+                    "units": "mbar"
+                },
+                "hourly": [
+        
+                ]
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "time": "2022-11-21 00:00:00",
+        "condition": {
+            "id": 4,
+            "name": "Rainy"
+        },
+        "location": {
+            "id": 1,
+            "city": "Banjar Agung",
+            "country": "Indonesia"
+        },
+        "temperature": {
+            "amount": 24,
+            "feels_like": 23,
+            "high": 25,
+            "low": 23,
+            "units": "°"
+        },
+        "precipitation": {
+            "amount": 72,
+            "units": "%"
+        },
+        "wind": {
+            "amount": 7.7,
+            "units": "km/h"
+        },
+        "humidity": {
+            "amount": 1010,
+            "units": "mbar"
+        },
+        "hourly": [
+            {
+                "id": 1,
+                "time": "2022-11-15 11:00:00",
+                "condition": {
+                    "id": 3,
+                    "name": "Cloudy"
+                },
+                "location": {
+                    "id": 1,
+                    "city": "Banjar Agung",
+                    "country": "Indonesia"
+                },
+                "temperature": {
+                    "amount": 27,
+                    "feels_like": 29,
+                    "high": 27,
+                    "low": 25,
+                    "units": "°"
+                },
+                "precipitation": {
+                    "amount": 72,
+                    "units": "%"
+                },
+                "wind": {
+                    "amount": 7.7,
+                    "units": "km/h"
+                },
+                "humidity": {
+                    "amount": 1010,
+                    "units": "mbar"
+                },
+                "hourly": [
+        
+                ]
+            },
+            {
+                "id": 1,
+                "time": "2022-11-15 12:00:00",
+                "condition": {
+                    "id": 4,
+                    "name": "Rainy"
+                },
+                "location": {
+                    "id": 1,
+                    "city": "Banjar Agung",
+                    "country": "Indonesia"
+                },
+                "temperature": {
+                    "amount": 25,
+                    "feels_like": 29,
+                    "high": 27,
+                    "low": 25,
+                    "units": "°"
+                },
+                "precipitation": {
+                    "amount": 72,
+                    "units": "%"
+                },
+                "wind": {
+                    "amount": 7.7,
+                    "units": "km/h"
+                },
+                "humidity": {
+                    "amount": 1010,
+                    "units": "mbar"
+                },
+                "hourly": [
+        
+                ]
+            },
+            {
+                "id": 1,
+                "time": "2022-11-15 13:00:00",
+                "condition": {
+                    "id": 4,
+                    "name": "Rainy"
+                },
+                "location": {
+                    "id": 1,
+                    "city": "Banjar Agung",
+                    "country": "Indonesia"
+                },
+                "temperature": {
+                    "amount": 25,
+                    "feels_like": 29,
+                    "high": 27,
+                    "low": 25,
+                    "units": "°"
+                },
+                "precipitation": {
+                    "amount": 72,
+                    "units": "%"
+                },
+                "wind": {
+                    "amount": 7.7,
+                    "units": "km/h"
+                },
+                "humidity": {
+                    "amount": 1010,
+                    "units": "mbar"
+                },
+                "hourly": [
+        
+                ]
+            },
+            {
+                "id": 1,
+                "time": "2022-11-15 14:00:00",
+                "condition": {
+                    "id": 5,
+                    "name": "Stormy"
+                },
+                "location": {
+                    "id": 1,
+                    "city": "Banjar Agung",
+                    "country": "Indonesia"
+                },
+                "temperature": {
+                    "amount": 26,
+                    "feels_like": 29,
+                    "high": 27,
+                    "low": 25,
+                    "units": "°"
+                },
+                "precipitation": {
+                    "amount": 72,
+                    "units": "%"
+                },
+                "wind": {
+                    "amount": 7.7,
+                    "units": "km/h"
+                },
+                "humidity": {
+                    "amount": 1010,
+                    "units": "mbar"
+                },
+                "hourly": [
+        
+                ]
+            },
+            {
+                "id": 1,
+                "time": "2022-11-15 15:00:00",
+                "condition": {
+                    "id": 3,
+                    "name": "Cloudy"
+                },
+                "location": {
+                    "id": 1,
+                    "city": "Banjar Agung",
+                    "country": "Indonesia"
+                },
+                "temperature": {
+                    "amount": 27,
+                    "feels_like": 29,
+                    "high": 27,
+                    "low": 25,
+                    "units": "°"
+                },
+                "precipitation": {
+                    "amount": 72,
+                    "units": "%"
+                },
+                "wind": {
+                    "amount": 7.7,
+                    "units": "km/h"
+                },
+                "humidity": {
+                    "amount": 1010,
+                    "units": "mbar"
+                },
+                "hourly": [
+        
+                ]
+            },
+            {
+                "id": 1,
+                "time": "2022-11-15 16:00:00",
+                "condition": {
+                    "id": 4,
+                    "name": "Rainy"
+                },
+                "location": {
+                    "id": 1,
+                    "city": "Banjar Agung",
+                    "country": "Indonesia"
+                },
+                "temperature": {
+                    "amount": 25,
+                    "feels_like": 29,
+                    "high": 27,
+                    "low": 25,
+                    "units": "°"
+                },
+                "precipitation": {
+                    "amount": 72,
+                    "units": "%"
+                },
+                "wind": {
+                    "amount": 7.7,
+                    "units": "km/h"
+                },
+                "humidity": {
+                    "amount": 1010,
+                    "units": "mbar"
+                },
+                "hourly": [
+        
+                ]
+            },
+            {
+                "id": 1,
+                "time": "2022-11-15 17:00:00",
+                "condition": {
+                    "id": 4,
+                    "name": "Rainy"
+                },
+                "location": {
+                    "id": 1,
+                    "city": "Banjar Agung",
+                    "country": "Indonesia"
+                },
+                "temperature": {
+                    "amount": 25,
+                    "feels_like": 29,
+                    "high": 27,
+                    "low": 25,
+                    "units": "°"
+                },
+                "precipitation": {
+                    "amount": 72,
+                    "units": "%"
+                },
+                "wind": {
+                    "amount": 7.7,
+                    "units": "km/h"
+                },
+                "humidity": {
+                    "amount": 1010,
+                    "units": "mbar"
+                },
+                "hourly": [
+        
+                ]
+            },
+            {
+                "id": 1,
+                "time": "2022-11-15 18:00:00",
+                "condition": {
+                    "id": 5,
+                    "name": "Stormy"
+                },
+                "location": {
+                    "id": 1,
+                    "city": "Banjar Agung",
+                    "country": "Indonesia"
+                },
+                "temperature": {
+                    "amount": 26,
+                    "feels_like": 29,
+                    "high": 27,
+                    "low": 25,
+                    "units": "°"
+                },
+                "precipitation": {
+                    "amount": 72,
+                    "units": "%"
+                },
+                "wind": {
+                    "amount": 7.7,
+                    "units": "km/h"
+                },
+                "humidity": {
+                    "amount": 1010,
+                    "units": "mbar"
+                },
+                "hourly": [
+        
+                ]
+            }
+        ]
+    }
+]
